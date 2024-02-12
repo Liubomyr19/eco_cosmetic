@@ -20,4 +20,4 @@ Gulp Tasks:
 Gulp tasks defined in gulpfile.js handle various build processes. Adjust or expand tasks based on project needs.
 
 Demo:
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+    - [DEMO LINK](https://Liubomyr19.github.io/eco_cosmetic/)
